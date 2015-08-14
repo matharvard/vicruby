@@ -1,2 +1,3 @@
-# vicruby
-Victoria Ruby Users Group
+# Victora Ruby Users Group
+
+The source code.
